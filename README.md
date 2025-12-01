@@ -3,6 +3,8 @@ Below is the complete process from Extracting → Transforming → Loading multi
 
 1️⃣ Extraction (Getting Data from Weather API)
 
+Free Weather API : https://www.weatherapi.com/
+
 Create an account on WeatherAPI.com and generate your API key.
 
 Go to API Explorer → Forecast section.
